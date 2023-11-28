@@ -1,4 +1,6 @@
-### Hi there 👋
+###  👋 
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Ola, sou Antonio Romes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Antonio-Romes&color=yellow" alt="Profile views" /> </p>
 
 <!--
 **Antonio-Romes/Antonio-Romes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
