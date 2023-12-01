@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_romes_lima/)
 
 
-![Antonio Romes](https://github-readme-stats.vercel.app/api?username=antonio-romes&show_icons=true&theme=radical)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-romes&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologia que uso no meu dia.
