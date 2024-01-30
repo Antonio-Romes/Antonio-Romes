@@ -1,35 +1,52 @@
-###  👋 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Ola, sou Antonio Romes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Antonio-Romes&color=yellow" alt="Profile views" /> </p>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9202F7&section=header&text=&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=55&duration=4000&pause=400&color=ffffff&vCenter=true&width=1000&lines=Ola,+sou+Antonio+Romes+.%F0%9F%91%8B%2C+;Desenvolvedor+Web+%F0%9F%98%8E)]( )
+
+ ##
+ 
+ ## Sobre mim
+ >Sou, Antonio Romes, desenvolvedor web júnior, apaixonado por tecnologia. Sempre busco esta atualizada com as tecnologias nas utilizadas pelo mercado de trabalho, além de esta em constante aprimorando dos meus conhecimentos através de curso e desenvolvimento de projeto pessoal.
+
+  📚 Sou formado em Ciência da Computação  
+  👨 Desenvolvedor web Júnior Front-End e Back-End;
+  
+ ## 📱 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-romes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_romes_lima/)
 
+## 🤹‍♀️ Habilidades
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-  
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antonio-Romes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-## Tecnologia que uso no meu dia.
+##
+<table align="center">
+	<tbody>
+		<tr>
+			<td align="center">
+  <a href="https://github.com/Antonio-Romes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Romes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Romes&layout=compact&langs_count=7&theme=midnight-purple"/>
+      </td>
+			<td>
+  <img align="right" alt="SIG-pic" height="400" style="border-radius:50px;" src="https://i.pinimg.com/originals/3c/a3/6f/3ca36f0ec466ee76759cbcf10b572cb6.jpg">
+      </td>
+		</tr>
+	</tbody>
+</table>
+ 
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-<!--
-**Antonio-Romes/Antonio-Romes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙ Minhas Contribuições
 
-Here are some ideas to get you started:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Romes&repo=DesafioCadastro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Antonio-Romes/DesafioCadastro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"style="color:#9202F7"><img align="center" src="https://profile-counter.glitch.me/{Angelox99}/count.svg" /></p> 
+<br></div>
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9202F7&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
