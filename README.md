@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_romes_lima/)
 
 ## 🤹‍♀️ Habilidades
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,github,git,jquery,react,ts)](https://skillicons.dev)
 
 ##
 <table align="center">
@@ -39,10 +39,16 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Romes&repo=DesafioCadastro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Antonio-Romes/DesafioCadastro)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Romes&repo=Racha_Cuca&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Antonio-Romes/Racha_Cuca)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Romes&repo=Jogo_Do_Adivinhe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Antonio-Romes/Jogo_Do_Adivinhe)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Antonio-Romes&repo=todo-list&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Antonio-Romes/todo-list)
+
   ##
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Total de visitante.</b></p>  
 <p align="center"style="color:#9202F7"><img align="center" src="https://profile-counter.glitch.me/{Angelox99}/count.svg" /></p> 
 <br></div>
 
