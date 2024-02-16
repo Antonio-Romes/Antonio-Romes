@@ -8,8 +8,8 @@
  ## Sobre mim
  >Sou, Antonio Romes, desenvolvedor web júnior, apaixonado por tecnologia. Sempre busco esta atualizada com as tecnologias nas utilizadas pelo mercado de trabalho, além de esta em constante aprimorando dos meus conhecimentos através de curso e desenvolvimento de projeto pessoal.
 
-  📚 Sou formado em Ciência da Computação  
-  👨 Desenvolvedor web Júnior Front-End e Back-End;
+  📚 Sou formado em Ciência da Computação.  
+  👨 Desenvolvedor web Júnior Front-End e Back-End.
   
  ## 📱 Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-romes/)
